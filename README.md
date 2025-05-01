@@ -22,4 +22,4 @@ This repository is **timestamped and secured** under open-source licensing.
 
 🚀 This is the first-ever Quantum Cancer Treatment dataset, proving that oncology has moved beyond chemo, beyond pharma—into the future.  
 
-Contact: ecssignalling:gmail.com
+Contact: ecssignalling@gmail.com
