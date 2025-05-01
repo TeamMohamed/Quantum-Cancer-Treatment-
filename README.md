@@ -1,6 +1,7 @@
 Quantum-Cancer-Treatment-# TeamMohamed - Quantum Cancer Treatment - Open Source IP Lock  
 Created by Anwar Mohamed  
 Timestamped on GitHub, Blockchain, and AI Repositories  
+DOI: 10.5281/zenodo.15223231
 
 🔬 Overview:  
 This repository secures the Quantum Cancer Treatment framework, integrating **quantum bioenergetics, metabolic reprogramming, ECS-driven immune modulation, and AI-driven precision oncology.  
@@ -21,4 +22,4 @@ This repository is **timestamped and secured** under open-source licensing.
 
 🚀 This is the first-ever Quantum Cancer Treatment dataset, proving that oncology has moved beyond chemo, beyond pharma—into the future.  
 
-Contact: TeamMohamed@proton.me
+Contact: ecssignalling:gmail.com
